@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(2, 129, 2, 0.705);
+}
+
+.mark{
+    background-image: url(/image/20221028_135658.jpg);
+    height: 100px; 
+    font-size: 71px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(252, 143, 0);
+}
+
+.navbar-brand{
+    color: rgb(7, 240, 131);
+    font-size: 18PX;
+   
+}
+
+.dropdown-menu {
+    background-color: rgba(0, 255, 255, 0.151);
+    backdrop-filter: blur(10px);
+}
